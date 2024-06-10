@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "brand": "Dell",
+        "model": "XPS 13",
+        "processor": "Intel Core i7-1165G7",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "price": 1299.99,
+        "release_date": "2023-01-15",
+        "image" :  "https://images-cdn.ubuy.co.in/6556697e6917d72f1d1485ca-dell-xps-13-9310-intel-core-i7-1185g7.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "Apple",
+        "model": "MacBook Air",
+        "processor": "Apple M1",
+        "ram": "8GB",
+        "storage": "256GB SSD",
+        "price": 999.99,
+        "release_date": "2022-11-10",
+        "image" : "https://www.istore.com.ng/cdn/shop/files/MGN63B_A-Macbook-Air-13_-M1-Chip-8_1200x.png?v=1710237449"
+    },
+    {
+        "id": 3,
+        "brand": "HP",
+        "model": "Spectre x360",
+        "processor": "Intel Core i7-11370H",
+        "ram": "16GB",
+        "storage": "1TB SSD",
+        "price": 1499.99,
+        "release_date": "2023-03-20",
+        "image" : "https://cdn.cs.1worldsync.com/syndication/feeds/hp/inline-content/M8/6/8/3/A/6/683A65618AF2D7B6DB13DD4CA7E648262E02E89D_w_400_hero.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "Lenovo",
+        "model": "ThinkPad X1 Carbon",
+        "processor": "Intel Core i5-1145G7",
+        "ram": "8GB",
+        "image" : "https://m.media-amazon.com/images/I/61nm3dwXAmL._AC_SL1500_.jpg",
+        "storage": "256GB SSD",
+        "price": 1149.99,
+        "release_date": "2022-12-05"
+    },
+    {
+        "id": 5,
+        "brand": "Asus",
+        "model": "ZenBook 14",
+        "processor": "AMD Ryzen 7 5800H",
+        "image" : "https://m.media-amazon.com/images/I/81DkONvgRVL._AC_SL1500_.jpg",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "price": 1099.99,
+        "release_date": "2023-02-17"
+    }
+   
+]
